@@ -1,2 +1,8 @@
-
+body{
+	background-color:lightgrey;
+}
+img{
+	width:250px;
+	margin-left:200px;
+}
 /* Your CSS Code here. */
